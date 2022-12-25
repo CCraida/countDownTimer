@@ -4,7 +4,7 @@ minList = []
 secList = []
 minSpinboxList = []
 secSpinboxList = []
-# test11
+# test11222
 def ckeButtonClick():
     """チェックボックス選択イベント
        タイマー2をON/OFFする。
